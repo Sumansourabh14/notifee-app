@@ -1,0 +1,18 @@
+{
+    "registration_ids" : [
+        "c9tysMHDQGSZWOdJXSO7Bg:APA91bFEO3utlptUcJN2jZKM3xxVHMHkq_nOoWKzj5x4mjDkRUaNh0qTl5t9logEnhSKJ2VAEhzlecUOvrddqWj1Qb0dl9FJvv_ur_a895CWPq0HcCTDBHx_vZ0k8YjAd4uvE4UzVUkY",
+        "cRf-VW2xRxiogWIEdxB9W9:APA91bHT5O4QFZ-yG2MXfnk6pS3z8tcMWY8JcgaOPc-E72DMVajnB-H5d3lTHeYUE0LLIAdhIgfQ1pPzLYOTqQvtEBWq3W1rV_tM0jFw42TA2KfBqqQjjVVfxqn1BpC5eend4cJgxQGe"
+    ],
+    "collapse_key" : "type_a",
+    "notification" : {
+        "body" : "Body of Notification",
+        "title": "Title of Remote Notification",
+        "image": "https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg"
+    },
+    "data" : {
+        "body" : "Body of Your Notification in Data, Body of Your Notification in Data, Body of Your Notification in Data",
+        "title": "Title of Your Notification in Title",
+        "key_1" : "Value for key_1",
+        "key_2" : "Value for key_2"
+    }
+}
